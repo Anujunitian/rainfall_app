@@ -37,13 +37,14 @@ Installation
 1. Clone the repository:
 
    git clone https://github.com/Anujunitian/rainfall_app
+   
    cd rainfall-prediction
 
-2. Create a virtual environment:
+3. Create a virtual environment:
 
    python -m venv venv
 
-3. Activate the virtual environment:
+4. Activate the virtual environment:
 
    Windows:
    .\venv\Scripts\activate
@@ -51,7 +52,7 @@ Installation
    macOS / Linux:
    source venv/bin/activate
 
-4. Install dependencies:
+5. Install dependencies:
 
    pip install -r requirements.txt
 
