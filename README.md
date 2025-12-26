@@ -36,7 +36,7 @@ Installation
 
 1. Clone the repository:
 
-   git clone 
+   git clone https://github.com/Anujunitian/rainfall_app
    cd rainfall-prediction
 
 2. Create a virtual environment:
